@@ -1,0 +1,21 @@
+.title{
+    text-align: center;
+}
+img{
+    margin-right: 40px;
+}
+#on{
+    background-color: red;
+    font-size: 1.4rem;
+    padding: 10px 20px;
+    color: white;
+}
+#off{
+    background-color: rgb(70, 56, 56);
+    font-size: 1.4rem;
+    padding: 10px 20px;
+    color: white;
+}
+.btn{
+    text-align: center;
+}
