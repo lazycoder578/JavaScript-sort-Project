@@ -1,0 +1,15 @@
+.navbar{
+   background-color: rebeccapurple; 
+   text-align: center;
+   padding: 20px;
+}
+.navbar a{
+    color: white;
+    font-size: 1.4rem;
+    margin-right: 30px;
+    text-decoration: none;
+}
+.active{
+    background-color: red;
+    color: wheat !important;
+}
