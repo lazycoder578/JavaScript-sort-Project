@@ -1,0 +1,16 @@
+#video{
+    height: 700px;
+    width: 700px;
+    background-color: blueviolet;
+}
+#canvas{
+    background-color: blueviolet;
+}
+#takePhoto{
+    background-color: blueviolet;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 3px 10px burlywood;
+    color: white;
+    font-size: 1.4rem;
+}
