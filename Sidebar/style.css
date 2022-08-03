@@ -1,0 +1,41 @@
+.navbar{
+    background-color: blueviolet;
+    height: 60px;
+    width: 100%;
+    box-sizing: border-box;
+}
+.bar-icone{
+    font-size: 2.4rem;
+    float: right;
+    margin-right: 30px;
+    margin-top: 10px;
+    color: white;
+}
+.sidebar{
+    width: 300px;
+    height: 750px;
+    background-color: rgb(10, 7, 12);
+    position: fixed;
+    transition: 0.5s;
+}
+.sidebarClose{
+    width: 0px;
+    height: 750px;
+    background-color: rgb(10, 7, 12);
+    position: fixed;
+    transition: 0.5s;
+}
+.nav a{
+    font-size: 1.5rem;
+    font-weight: 700;
+    display: none;
+    margin-top: 30px;
+    color: white;
+    text-decoration: none;
+}
+.nav a.open{
+    display: block;
+}
+.nav{
+    text-align: center;
+}
