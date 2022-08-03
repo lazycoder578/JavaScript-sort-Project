@@ -1,0 +1,9 @@
+button{
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+}
+form{
+    width: 400px;
+    margin: 0 auto;
+}
